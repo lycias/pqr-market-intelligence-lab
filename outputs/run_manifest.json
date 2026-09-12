@@ -1,0 +1,40 @@
+{
+  "run_timestamp_utc": "2026-09-11T13:58:37.757016+00:00",
+  "random_seed": 42,
+  "source_file": "/workspace/scratch/40625a1063a8/project1_pqr_update/global_fund/derived/pqr_transactions_2003_2026_ml_ready.csv",
+  "source_rows": 93840,
+  "analytic_rows": 43054,
+  "splits": {
+    "train_through": 2022,
+    "validation": 2023,
+    "test": [
+      2024,
+      2025
+    ],
+    "excluded_partial_year": 2026
+  },
+  "best_model_parameters": {
+    "learning_rate": 0.06,
+    "max_iter": 260,
+    "max_leaf_nodes": 63,
+    "min_samples_leaf": 60,
+    "l2_regularization": 3.0
+  },
+  "validation_residual_thresholds": {
+    "context_2_5pct": -1.6715495636382223,
+    "context_97_5pct": 1.1414598973975618,
+    "sensitivity_2_5pct": -1.5391914532383075,
+    "sensitivity_97_5pct": 1.2842530566157788
+  },
+  "software": {
+    "python": "3.12.14",
+    "pandas": "2.2.3"
+  },
+  "output_files": [
+    "country_product_monitoring_2024_2025.csv",
+    "high_price_review_signals_2024_2025.csv",
+    "manufacturer_concentration_recent.csv",
+    "model_test_metrics.csv",
+    "permutation_importance.csv"
+  ]
+}
