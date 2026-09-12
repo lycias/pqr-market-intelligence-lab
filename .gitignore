@@ -1,0 +1,21 @@
+# Raw and intermediate data
+data/raw/
+*.zip
+*.parquet
+
+# Large generated datasets
+pqr_transactions_*.csv
+pqr_current_medicines_by_country.csv
+pqr_current_diagnostics_by_country.csv
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Local environment and OS files
+.env
+.DS_Store
+Thumbs.db
