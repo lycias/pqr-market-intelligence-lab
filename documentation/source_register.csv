@@ -1,0 +1,5 @@
+file_or_group,source,source_url,extraction_date,filters_or_scope,status
+pqr_transactions_by_year,Global Fund PQR Transaction Summary,https://insights.theglobalfund.org/t/Public/views/PriceQualityReportingTransactionSummary/TransactionSummary,2026-09-11,"Purchase Order Year separately set to 2003 through 2026; all countries grants regions product categories products suppliers and manufacturers",Downloaded
+pqr_current_medicines_by_country.csv,Global Fund PQR Price Reference Report,https://insights.theglobalfund.org/t/Public/views/PriceQualityReportingPriceReferenceReport/Countries,2026-09-11,"Select Country=(All)",Downloaded
+pqr_current_diagnostics_by_country.csv,Global Fund PQR Price Reference Report,https://insights.theglobalfund.org/t/Public/views/PriceQualityReportingPriceReferenceReport/CountriesDiagnostics,2026-09-11,"Select Country=(All)",Downloaded
+psm_pqrdatacaveats_note_en.pdf,Global Fund,https://www.theglobalfund.org/media/5871/psm_pqrdatacaveats_note_en.pdf,2026-09-11,Official caveats note,Downloaded
