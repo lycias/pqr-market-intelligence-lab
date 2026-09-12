@@ -1,0 +1,115 @@
+country_teritorry,product_category,transactions,reported_product_cost,median_observed_expected_ratio,high_review_signals,manufacturers,high_review_share
+South Africa,Anti-TB medicine,27,956.7945,0.6026013833112281,5,3,0.18518518518518517
+Venezuela (Bolivarian Republic),Anti-Retroviral and COVID-19 medicine,17,3171.38,0.906971367503647,3,6,0.17647058823529413
+Congo,"Diagnostic, PPE and Medical Device",15,0.0,1.9845340264781743,2,4,0.13333333333333333
+Somalia,"Diagnostic, PPE and Medical Device",29,440.0,1.0534611198799477,3,7,0.10344827586206896
+Azerbaijan,"Diagnostic, PPE and Medical Device",21,2560.24,0.9289164881960797,2,6,0.09523809523809523
+Burkina Faso,"Diagnostic, PPE and Medical Device",22,2270.96,0.971786025288914,2,8,0.09090909090909091
+Guinea-Bissau,Anti-TB medicine,22,1039.1100000000001,1.2536973998186531,2,6,0.09090909090909091
+Kosovo,"Diagnostic, PPE and Medical Device",11,0.0,1.249619214770565,1,5,0.09090909090909091
+Moldova,"Diagnostic, PPE and Medical Device",44,6682.242899999999,0.8890024039056241,3,5,0.06818181818181818
+Gambia,Anti-malaria medicine,30,1882.6,0.7384894850822968,2,4,0.06666666666666667
+Azerbaijan,Anti-Retroviral and COVID-19 medicine,15,1780.55,1.0452566556802378,1,7,0.06666666666666667
+Djibouti,Anti-Retroviral and COVID-19 medicine,17,2298.35,0.8802396702861491,1,10,0.058823529411764705
+Thailand,"Diagnostic, PPE and Medical Device",19,0.0,0.9572049337822022,1,5,0.05263157894736842
+Mongolia,Anti-TB medicine,48,2268.77,0.8844200395036166,2,12,0.041666666666666664
+Niger,Anti-TB medicine,28,5624.96,0.9841228924080689,1,11,0.03571428571428571
+Kyrgyzstan,"Diagnostic, PPE and Medical Device",63,0.0,1.0616214224135876,2,9,0.031746031746031744
+Myanmar,"Diagnostic, PPE and Medical Device",82,5313.745800000001,0.9294701564931147,2,19,0.024390243902439025
+Tanzania (United Republic),Anti-TB medicine,43,5278.9018,0.9975163130836762,1,11,0.023255813953488372
+Colombia,"Diagnostic, PPE and Medical Device",71,12411.6334,1.3104424659457174,1,2,0.014084507042253521
+Western Asia,Anti-TB medicine,219,32533.48,0.9946932052584324,2,13,0.0091324200913242
+Ukraine,"Diagnostic, PPE and Medical Device",102,7129.7067,1.0563021849365049,0,14,0.0
+Sudan,Anti-TB medicine,81,13644.83,1.0357134644314456,0,12,0.0
+Western Asia,Anti-Retroviral and COVID-19 medicine,80,18287.27,0.7670039546488665,0,10,0.0
+Burkina Faso,Anti-TB medicine,73,11659.41,0.9866187622575787,0,11,0.0
+South Africa,"Diagnostic, PPE and Medical Device",61,13239.4025,1.191587093432288,0,6,0.0
+Mozambique,"Diagnostic, PPE and Medical Device",53,0.0,1.4495109518168003,0,4,0.0
+Lesotho,Anti-TB medicine,48,9094.66,0.8711377300987171,0,11,0.0
+Western Asia,"Diagnostic, PPE and Medical Device",48,8813.34,0.9701532495014706,0,10,0.0
+Tajikistan,"Diagnostic, PPE and Medical Device",43,3329.4571,1.0233609378983692,0,9,0.0
+Ukraine,Anti-TB medicine,43,2814.66,0.974881277248095,0,10,0.0
+Armenia,"Diagnostic, PPE and Medical Device",42,6996.2841,0.9614403277019223,0,7,0.0
+Mozambique,Anti-TB medicine,35,3752.2,1.077539436595411,0,10,0.0
+Côte d'Ivoire,Anti-TB medicine,34,2928.5,0.9362830271923399,0,9,0.0
+Somalia,Anti-Retroviral and COVID-19 medicine,34,8286.3,0.9952746601392098,0,6,0.0
+Benin,Anti-TB medicine,32,6469.9,1.0093808546842655,0,10,0.0
+Bhutan,Anti-TB medicine,31,2912.98,0.9901787078917118,0,10,0.0
+Kyrgyzstan,Anti-TB medicine,31,4357.97,0.8758354164371887,0,5,0.0
+Sudan,Anti-Retroviral and COVID-19 medicine,31,3206.3,1.0899676102193117,0,10,0.0
+Cabo Verde,Anti-Retroviral and COVID-19 medicine,30,4190.79,1.0276873610156079,0,8,0.0
+Georgia,"Diagnostic, PPE and Medical Device",30,4422.76,0.990507377572063,0,12,0.0
+Cambodia,Anti-TB medicine,28,1641.0,0.8666789491214185,0,11,0.0
+Timor-Leste,Anti-TB medicine,28,8819.9,1.0269132382392852,0,10,0.0
+Djibouti,Anti-TB medicine,27,3912.33,0.8820889766880898,0,10,0.0
+Somalia,Anti-TB medicine,26,1889.92,0.87781757946314,0,9,0.0
+Sudan,"Diagnostic, PPE and Medical Device",26,0.0,0.9776782530369021,0,5,0.0
+Gambia,"Diagnostic, PPE and Medical Device",25,3291.86,0.8740518471352625,0,5,0.0
+Liberia,Anti-TB medicine,25,756.0,1.0591909971445683,0,8,0.0
+Myanmar,Anti-TB medicine,25,1633.1,1.0522997630742263,0,8,0.0
+South Sudan,Anti-TB medicine,25,3706.04,0.9692207995298374,0,9,0.0
+Egypt,"Diagnostic, PPE and Medical Device",24,6014.3568,1.1928272206780308,0,5,0.0
+South Sudan,"Diagnostic, PPE and Medical Device",23,1517.85,0.8856470513218426,0,4,0.0
+Thailand,Anti-TB medicine,23,4855.8987,0.8790540862110542,0,11,0.0
+Timor-Leste,Anti-Retroviral and COVID-19 medicine,23,3540.44,1.0075573006686642,0,7,0.0
+Guinea,Anti-TB medicine,22,1609.06,1.0641226624138271,0,8,0.0
+Pakistan,Anti-TB medicine,22,2412.5,0.8659609975066951,0,5,0.0
+Africa,"Diagnostic, PPE and Medical Device",21,721.2727,1.0159795366754265,0,0,0.0
+Gambia,Anti-TB medicine,20,1983.37,1.1673240330407757,0,5,0.0
+Philippines,Anti-TB medicine,20,539.22,1.0277308931545939,0,10,0.0
+Philippines,"Diagnostic, PPE and Medical Device",20,472.6631,0.7970280350221661,0,4,0.0
+South-Eastern Asia,"Diagnostic, PPE and Medical Device",20,2075.305,0.758188166355914,0,2,0.0
+Uzbekistan,"Diagnostic, PPE and Medical Device",19,650.0,0.9940133798279887,0,6,0.0
+Eritrea,Anti-TB medicine,18,3580.2200000000003,0.9390933458099293,0,8,0.0
+Venezuela (Bolivarian Republic),Anti-TB medicine,18,4085.16,0.8402557750331313,0,8,0.0
+Afghanistan,"Diagnostic, PPE and Medical Device",17,900.0,0.5732907811717185,0,4,0.0
+Bhutan,Anti-Retroviral and COVID-19 medicine,17,3253.71,0.9565004200026922,0,5,0.0
+Djibouti,"Diagnostic, PPE and Medical Device",17,5014.42,1.0842453006354946,0,5,0.0
+Guatemala,"Diagnostic, PPE and Medical Device",17,0.0,0.94964929016265,0,7,0.0
+Kyrgyzstan,Anti-Retroviral and COVID-19 medicine,17,3890.8,0.8929112148557969,0,9,0.0
+Azerbaijan,Anti-TB medicine,16,2689.63,0.7760074919343887,0,8,0.0
+Bangladesh,"Diagnostic, PPE and Medical Device",16,930.0,1.012311618776611,0,8,0.0
+Guinea-Bissau,Anti-malaria medicine,16,1872.52,0.734466421367816,0,4,0.0
+Rwanda,Anti-TB medicine,16,801.65,1.2198573526765821,0,5,0.0
+South Africa,Anti-Retroviral and COVID-19 medicine,16,3077.0434,0.7405678503548594,0,4,0.0
+Tajikistan,Anti-TB medicine,16,1187.9,0.8416869338717088,0,7,0.0
+Zimbabwe,Anti-TB medicine,16,1826.32,0.8149405994155291,0,8,0.0
+Benin,Anti-Retroviral and COVID-19 medicine,15,3739.73,1.0238278658047557,0,7,0.0
+Benin,"Diagnostic, PPE and Medical Device",15,525.0,1.0002555359699956,0,5,0.0
+Burundi,Anti-Retroviral and COVID-19 medicine,15,3036.65,0.9921990815421936,0,4,0.0
+Comoros,Anti-malaria medicine,15,2876.56,0.8178453468787499,0,1,0.0
+Egypt,Anti-TB medicine,15,1516.74,0.7711793905910971,0,6,0.0
+Mongolia,"Diagnostic, PPE and Medical Device",15,2145.0,0.9724230720987052,0,5,0.0
+Nepal,Anti-Retroviral and COVID-19 medicine,15,600.0,0.9618443257778849,0,8,0.0
+Northern Africa,Anti-Retroviral and COVID-19 medicine,15,3263.2,0.7432343174101081,0,6,0.0
+Burundi,"Diagnostic, PPE and Medical Device",14,0.0,1.0327010616433823,0,5,0.0
+Cambodia,"Diagnostic, PPE and Medical Device",14,0.0,0.8476777700500677,0,6,0.0
+Central African Republic,Anti-TB medicine,14,1526.88,1.0012206351693893,0,7,0.0
+Chad,"Diagnostic, PPE and Medical Device",14,52.8,0.8518790434361718,0,5,0.0
+Mali,Anti-TB medicine,14,3924.02,0.853937305721306,0,7,0.0
+Nepal,Anti-TB medicine,14,703.3599999999999,0.9581589553335399,0,8,0.0
+Zimbabwe,"Diagnostic, PPE and Medical Device",14,321.77,0.7687289659664771,0,5,0.0
+Congo,Anti-TB medicine,13,962.0,1.1955700530001847,0,8,0.0
+Guinea-Bissau,"Diagnostic, PPE and Medical Device",13,373.75,0.8543838553558218,0,5,0.0
+Pakistan,"Diagnostic, PPE and Medical Device",13,800.0,1.0847418748036233,0,5,0.0
+Sri Lanka,Anti-Retroviral and COVID-19 medicine,13,1775.4,0.9619024191887846,0,6,0.0
+Uganda,Anti-Retroviral and COVID-19 medicine,13,0.0,1.345459284334673,0,3,0.0
+Angola,Anti-TB medicine,12,2166.66,0.8932399188506128,0,7,0.0
+Angola,"Diagnostic, PPE and Medical Device",12,180.0,0.9094150912876349,0,2,0.0
+Guinea,Anti-Retroviral and COVID-19 medicine,12,345.7,1.078851294186234,0,6,0.0
+Indonesia,Anti-TB medicine,12,0.0,0.9668539695473863,0,3,0.0
+Madagascar,Anti-Retroviral and COVID-19 medicine,12,4721.4,0.963951629510477,0,4,0.0
+Mali,Anti-Retroviral and COVID-19 medicine,12,706.5,1.1129553984163483,0,6,0.0
+Mauritania,Anti-malaria medicine,12,2526.63,0.8474009173117385,0,3,0.0
+South-Eastern Asia,Anti-malaria medicine,12,1955.1,0.7457698074485041,0,4,0.0
+Tajikistan,Anti-Retroviral and COVID-19 medicine,12,1178.4,0.9782580730517225,0,7,0.0
+Sao Tome and Principe,Anti-TB medicine,11,345.19,0.9832295711511883,0,4,0.0
+Sao Tome and Principe,"Diagnostic, PPE and Medical Device",11,2626.4,1.0190379399625533,0,4,0.0
+Uzbekistan,Anti-TB medicine,11,1023.06,1.054433252280003,0,4,0.0
+Zimbabwe,Anti-malaria medicine,11,3201.16,0.7472783453709765,0,4,0.0
+Cabo Verde,Anti-TB medicine,10,2545.99,1.066709076460598,0,7,0.0
+Kazakhstan,Anti-TB medicine,10,0.0,0.8514850585394471,0,7,0.0
+Moldova,Anti-TB medicine,10,0.0,0.849359857067777,0,7,0.0
+Oceania,Anti-Retroviral and COVID-19 medicine,10,4285.35,0.755811871633278,0,4,0.0
+Philippines,Anti-malaria medicine,10,57.0,0.730739075622197,0,3,0.0
+Sri Lanka,"Diagnostic, PPE and Medical Device",10,132.0,0.416895791609909,0,4,0.0
