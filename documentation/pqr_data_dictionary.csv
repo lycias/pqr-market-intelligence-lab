@@ -1,0 +1,26 @@
+raw_field,derived_field,working_description,modelling_note
+Actual Delivery Date,actual_delivery_date,Reported actual delivery date,May be missing for undelivered or incompletely reported transactions
+Country/Teritorry,country_teritorry,Destination country or territory,Source spelling is retained; map to ISO3 in a separate harmonization table
+Description,description,Detailed product or presentation description,Use with product and product-pack fields to identify like-for-like products
+Freight Cost,freight_cost,Reported treatment of freight cost,Essential adjustment or stratification variable for price comparison
+Grant Name,grant_name,Global Fund grant identifier,May encode geography and grant structure
+Invoice Currency Name,invoice_currency_name,Reported invoice currency,The dashboard supplies USD product measures but currency remains important for validation
+Manufacturer,manufacturer,Reported manufacturer name,Requires entity-name standardization before concentration analysis
+Measure Names,measure_names,Tableau measure label,Raw long-format field with three main measure types
+Primary Key,primary_key,Dashboard transaction identifier,Used to reshape to one row per reported transaction
+Product,product,Reported product name,Standardize separately without overwriting the source value
+Product Category,product_category,Broad health-product category,Useful for stratified modelling; categories are not interchangeable
+Product Pack,product_pack,Reported pack or presentation,Required for like-for-like unit-price comparisons
+Purchase Order Date,purchase_order_date,Reported purchase-order date,Primary temporal feature
+Purchase Order Number,purchase_order_number,Reported order number,Potential duplicate and consistency check
+Scheduled Delivery Date,scheduled_delivery_date,Reported scheduled delivery date,Can support planned lead-time features when combined with order date
+Some or All of Goods Prepaid,some_or_all_of_goods_prepaid,Reported prepayment status,Potential commercial-terms feature
+Status,status,Publication or administrative status,Assess whether administrative status affects comparability
+Supplier Invoice Number,supplier_invoice_number,Reported supplier invoice identifier,Sensitive-looking identifier is already present in the public source; do not infer entities beyond reported data
+Supplier/Agent/Manufacturer/Intermediatry,supplier_agent_manufacturer_intermediatry,Reported procurement channel or supplier role,Source spelling is retained; requires categorical harmonization
+Measure Values,measure_values,Value corresponding to Measure Names,Pivoted to three separate columns in the ML-ready file
+Nb of Suom in Pack,nb_of_suom_in_pack,Reported number of standardized units of measure in a pack,Source spelling is retained; validate against product-pack text
+,pack_quantity,Reported number of packs,Derived by pivoting the Pack quantity measure
+,product_pack_usd,Reported product-pack price in USD,Target candidate only after product and freight comparability controls
+,total_product_cost_usd,Reported total product cost in USD,Check consistency against pack quantity multiplied by pack price
+,source_extract_year,Year-specific Tableau filter used for extraction,Added locally for reproducibility and partition tracking
